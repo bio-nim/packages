@@ -19811,5 +19811,15 @@
     "description": "Shell command manager",
     "license": "MIT",
     "web": "https://github.com/sealmove/oblivion"
+    "name": "kmers",
+    "url": "https://github.com/bio-nim/nim-kmers",
+    "method": "git",
+    "tags": [
+      "dna",
+      "kmer"
+    ],
+    "description": "k-mer searching and other bioinformatics libraries",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/bio-nim/nim-kmers"
   }
 ]
